@@ -1,7 +1,7 @@
 # codingCompetition2020
 
 ## Group name
- -
+ - BLAH BLAH BLAH
 
 ## Group members and email
  -
